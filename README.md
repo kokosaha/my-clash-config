@@ -59,3 +59,14 @@ my-clash-config/
 
 - `bash`、`curl`
 - Clash 已运行且 `mixed-port: 7890`，使用 ClashX Pro 或 ClashX。
+
+## Git 推送 GitHub
+
+Git 默认**不使用系统代理**，直连 `github.com` 在国内易超时（如 `Failed to connect to github.com port 443`）。让 Git 访问 GitHub 时走 Clash（`http.https://github.com.proxy`）即可：
+
+```bash
+git config --global http.https://github.com.proxy http://127.0.0.1:7890
+git config --global https.https://github.com.proxy https://127.0.0.1:7890
+```
+
+以上为**永久**生效（写入 `~/.gitconfig`）。取消代理：`git config --global --unset http.https://github.com.proxy` 及 `https.https://github.com.proxy`。
