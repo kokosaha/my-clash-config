@@ -1,0 +1,10 @@
+# 插入到 Cures Cloud.yaml 的 rules 中，位于 'DOMAIN-SUFFIX,tenpay.com,DIRECT' 之后
+# 中车 / 腾讯文档 / 腾讯会议 / 石墨 / 豆包 直连
+- 'DOMAIN-SUFFIX,csrzic.com,DIRECT'
+- 'DOMAIN-SUFFIX,docs.qq.com,DIRECT'
+- 'DOMAIN-SUFFIX,meeting.tencent.com,DIRECT'
+- 'DOMAIN-SUFFIX,meeting.qq.com,DIRECT'
+- 'DOMAIN-SUFFIX,wemeet.qq.com,DIRECT'
+- 'DOMAIN-SUFFIX,wemeet.tencent.com,DIRECT'
+- 'DOMAIN-SUFFIX,shimo.im,DIRECT'
+- 'DOMAIN-SUFFIX,doubao.com,DIRECT'
