@@ -1,0 +1,8 @@
+    - 'DOMAIN-SUFFIX,csrzic.com,DIRECT'
+    - 'DOMAIN-SUFFIX,docs.qq.com,DIRECT'
+    - 'DOMAIN-SUFFIX,meeting.tencent.com,DIRECT'
+    - 'DOMAIN-SUFFIX,meeting.qq.com,DIRECT'
+    - 'DOMAIN-SUFFIX,wemeet.qq.com,DIRECT'
+    - 'DOMAIN-SUFFIX,wemeet.tencent.com,DIRECT'
+    - 'DOMAIN-SUFFIX,shimo.im,DIRECT'
+    - 'DOMAIN-SUFFIX,doubao.com,DIRECT'
