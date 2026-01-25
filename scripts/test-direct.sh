@@ -13,8 +13,10 @@ URLS=(
   "https://meeting.tencent.com/"
   "https://shimo.im/"
   "https://www.doubao.com/"
+  "https://weixin.qq.com/"
+  "https://wechat.com/"
 )
-DOMAINS=( "csrzic.com" "docs.qq.com" "meeting.tencent.com" "meeting.qq.com" "wemeet.qq.com" "wemeet.tencent.com" "shimo.im" "doubao.com" )
+DOMAINS=( "csrzic.com" "docs.qq.com" "meeting.tencent.com" "meeting.qq.com" "wemeet.qq.com" "wemeet.tencent.com" "shimo.im" "doubao.com" "wechat.com" "wechatpay.cn" "wechatpay.com" "wechatapp.com" "wechatos.net" "weixin.qq.com" "weixin.com" "servicewechat.com" "wx.qq.com" "wxs.qq.com" "weixinconf.qq.com" "qpic.cn" "qlogo.cn" "wx.gtimg.com" "scdsjzx.com" "xdow.net" )
 
 echo "==> 连通性测试（经代理 ${PROXY}）"
 for u in "${URLS[@]}"; do
