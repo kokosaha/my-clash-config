@@ -44,9 +44,9 @@ proxies:
     - { name: 'VIP1 意大利', type: ss, server: itvip1pv8vnvm9.christie7sports2congress.cyou, port: 12017, cipher: chacha20-ietf-poly1305, password: 49790088-d407-463d-9577-b2e9fe06de65, udp: true }
     - { name: 'VIP2 意大利', type: ss, server: itvip2u4x8idvd.christie7sports2congress.cyou, port: 12017, cipher: chacha20-ietf-poly1305, password: 49790088-d407-463d-9577-b2e9fe06de65, udp: true }
 proxy-groups:
-    - { name: Cures Cloud, type: select, proxies: [自动选择, 故障转移, '剩余流量：799.08 GB', 套餐到期：长期有效, ⭐代理招募合作共赢, ⭐邀请朋友使用赚佣金, 牢记官网防失联↓↓↓↓↓↓↓↓↓, 'https://app.cures.cloud', 'VIP1 香港', 'VIP2 香港', 'VIP1 台湾(解锁ChatGPT/流媒体）', 'VIP2 台湾(解锁ChatGPT/流媒体）', 'VIP1 美国', 'VIP2 美国', 'VIP1 日本', 'VIP2 日本', 'VIP1 新加坡', 'VIP2 新加坡', 'VIP1 澳大利亚', 'VIP2 澳大利亚', 'VIP1 英国(解锁ChatGPT/流媒体）', 'VIP2 英国(解锁ChatGPT/流媒体）', 'VIP1 加拿大(解锁ChatGPT/流媒体）', 'VIP2 加拿大(解锁ChatGPT/流媒体）', 'VIP1 法国', 'VIP2 法国', 'VIP1 德国', 'VIP2 德国', 'VIP1 意大利', 'VIP2 意大利'] }
-    - { name: 自动选择, type: url-test, proxies: ['剩余流量：799.08 GB', 套餐到期：长期有效, ⭐代理招募合作共赢, ⭐邀请朋友使用赚佣金, 牢记官网防失联↓↓↓↓↓↓↓↓↓, 'https://app.cures.cloud', 'VIP1 香港', 'VIP2 香港', 'VIP1 台湾(解锁ChatGPT/流媒体）', 'VIP2 台湾(解锁ChatGPT/流媒体）', 'VIP1 美国', 'VIP2 美国', 'VIP1 日本', 'VIP2 日本', 'VIP1 新加坡', 'VIP2 新加坡', 'VIP1 澳大利亚', 'VIP2 澳大利亚', 'VIP1 英国(解锁ChatGPT/流媒体）', 'VIP2 英国(解锁ChatGPT/流媒体）', 'VIP1 加拿大(解锁ChatGPT/流媒体）', 'VIP2 加拿大(解锁ChatGPT/流媒体）', 'VIP1 法国', 'VIP2 法国', 'VIP1 德国', 'VIP2 德国', 'VIP1 意大利', 'VIP2 意大利'], url: 'http://www.gstatic.com/generate_204', interval: 86400 }
-    - { name: 故障转移, type: fallback, proxies: ['剩余流量：799.08 GB', 套餐到期：长期有效, ⭐代理招募合作共赢, ⭐邀请朋友使用赚佣金, 牢记官网防失联↓↓↓↓↓↓↓↓↓, 'https://app.cures.cloud', 'VIP1 香港', 'VIP2 香港', 'VIP1 台湾(解锁ChatGPT/流媒体）', 'VIP2 台湾(解锁ChatGPT/流媒体）', 'VIP1 美国', 'VIP2 美国', 'VIP1 日本', 'VIP2 日本', 'VIP1 新加坡', 'VIP2 新加坡', 'VIP1 澳大利亚', 'VIP2 澳大利亚', 'VIP1 英国(解锁ChatGPT/流媒体）', 'VIP2 英国(解锁ChatGPT/流媒体）', 'VIP1 加拿大(解锁ChatGPT/流媒体）', 'VIP2 加拿大(解锁ChatGPT/流媒体）', 'VIP1 法国', 'VIP2 法国', 'VIP1 德国', 'VIP2 德国', 'VIP1 意大利', 'VIP2 意大利'], url: 'http://www.gstatic.com/generate_204', interval: 7200 }
+    - { name: Cures Cloud, type: select, proxies: ['VIP1 澳大利亚', 'VIP2 澳大利亚', '剩余流量：799.08 GB', 套餐到期：长期有效, ⭐代理招募合作共赢, ⭐邀请朋友使用赚佣金, 牢记官网防失联↓↓↓↓↓↓↓↓↓, 'https://app.cures.cloud', 'VIP1 香港', 'VIP2 香港', 'VIP1 台湾(解锁ChatGPT/流媒体）', 'VIP2 台湾(解锁ChatGPT/流媒体）', 'VIP1 美国', 'VIP2 美国', 'VIP1 日本', 'VIP2 日本', 'VIP1 新加坡', 'VIP2 新加坡', 'VIP1 英国(解锁ChatGPT/流媒体）', 'VIP2 英国(解锁ChatGPT/流媒体）', 'VIP1 加拿大(解锁ChatGPT/流媒体）', 'VIP2 加拿大(解锁ChatGPT/流媒体）', 'VIP1 法国', 'VIP2 法国', 'VIP1 德国', 'VIP2 德国', 'VIP1 意大利', 'VIP2 意大利'] }
+    - { name: 自动选择, type: select, proxies: ['剩余流量：799.08 GB', 套餐到期：长期有效, ⭐代理招募合作共赢, ⭐邀请朋友使用赚佣金, 牢记官网防失联↓↓↓↓↓↓↓↓↓, 'https://app.cures.cloud', 'VIP1 香港', 'VIP2 香港', 'VIP1 台湾(解锁ChatGPT/流媒体）', 'VIP2 台湾(解锁ChatGPT/流媒体）', 'VIP1 美国', 'VIP2 美国', 'VIP1 日本', 'VIP2 日本', 'VIP1 新加坡', 'VIP2 新加坡', 'VIP1 澳大利亚', 'VIP2 澳大利亚', 'VIP1 英国(解锁ChatGPT/流媒体）', 'VIP2 英国(解锁ChatGPT/流媒体）', 'VIP1 加拿大(解锁ChatGPT/流媒体）', 'VIP2 加拿大(解锁ChatGPT/流媒体）', 'VIP1 法国', 'VIP2 法国', 'VIP1 德国', 'VIP2 德国', 'VIP1 意大利', 'VIP2 意大利'], url: 'http://www.gstatic.com/generate_204', interval: 86400 }
+    - { name: 故障转移, type: select, proxies: ['剩余流量：799.08 GB', 套餐到期：长期有效, ⭐代理招募合作共赢, ⭐邀请朋友使用赚佣金, 牢记官网防失联↓↓↓↓↓↓↓↓↓, 'https://app.cures.cloud', 'VIP1 香港', 'VIP2 香港', 'VIP1 台湾(解锁ChatGPT/流媒体）', 'VIP2 台湾(解锁ChatGPT/流媒体）', 'VIP1 美国', 'VIP2 美国', 'VIP1 日本', 'VIP2 日本', 'VIP1 新加坡', 'VIP2 新加坡', 'VIP1 澳大利亚', 'VIP2 澳大利亚', 'VIP1 英国(解锁ChatGPT/流媒体）', 'VIP2 英国(解锁ChatGPT/流媒体）', 'VIP1 加拿大(解锁ChatGPT/流媒体）', 'VIP2 加拿大(解锁ChatGPT/流媒体）', 'VIP1 法国', 'VIP2 法国', 'VIP1 德国', 'VIP2 德国', 'VIP1 意大利', 'VIP2 意大利'], url: 'http://www.gstatic.com/generate_204', interval: 7200 }
 rules:
     - 'DOMAIN-SUFFIX,services.googleapis.cn,Cures Cloud'
     - 'DOMAIN-SUFFIX,xn--ngstr-lra8j.com,Cures Cloud'
@@ -181,6 +181,27 @@ rules:
     - 'DOMAIN-SUFFIX,taobao.com,DIRECT'
     - 'DOMAIN-SUFFIX,tencent.com,DIRECT'
     - 'DOMAIN-SUFFIX,tenpay.com,DIRECT'
+    - 'DOMAIN-SUFFIX,mirrors.ustc.edu.cn,DIRECT'
+    - 'DOMAIN-SUFFIX,c.163.com,DIRECT'
+    - 'DOMAIN-SUFFIX,nju.edu.cn,DIRECT'
+    - 'DOMAIN-SUFFIX,1ms.run,DIRECT'
+    - 'DOMAIN-SUFFIX,dockerproxy.cn,DIRECT'
+    - 'DOMAIN-SUFFIX,wechat.com,DIRECT'
+    - 'DOMAIN-SUFFIX,wechatpay.cn,DIRECT'
+    - 'DOMAIN-SUFFIX,wechatpay.com,DIRECT'
+    - 'DOMAIN-SUFFIX,wechatapp.com,DIRECT'
+    - 'DOMAIN-SUFFIX,wechatos.net,DIRECT'
+    - 'DOMAIN-SUFFIX,weixin.qq.com,DIRECT'
+    - 'DOMAIN-SUFFIX,weixin.com,DIRECT'
+    - 'DOMAIN-SUFFIX,servicewechat.com,DIRECT'
+    - 'DOMAIN-SUFFIX,wx.qq.com,DIRECT'
+    - 'DOMAIN-SUFFIX,wxs.qq.com,DIRECT'
+    - 'DOMAIN-SUFFIX,weixinconf.qq.com,DIRECT'
+    - 'DOMAIN-SUFFIX,qpic.cn,DIRECT'
+    - 'DOMAIN-SUFFIX,qlogo.cn,DIRECT'
+    - 'DOMAIN-SUFFIX,wx.gtimg.com,DIRECT'
+    - 'DOMAIN-SUFFIX,scdsjzx.com,DIRECT'
+    - 'DOMAIN-SUFFIX,xdow.net,DIRECT'
     - 'DOMAIN-SUFFIX,csrzic.com,DIRECT'
     - 'DOMAIN-SUFFIX,docs.qq.com,DIRECT'
     - 'DOMAIN-SUFFIX,meeting.tencent.com,DIRECT'
