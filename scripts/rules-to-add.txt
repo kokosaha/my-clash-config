@@ -22,3 +22,8 @@
     - 'DOMAIN-SUFFIX,wx.gtimg.com,DIRECT'
     - 'DOMAIN-SUFFIX,scdsjzx.com,DIRECT'
     - 'DOMAIN-SUFFIX,xdow.net,DIRECT'
+    - 'DOMAIN-SUFFIX,1ms.run,DIRECT'
+    - 'DOMAIN-SUFFIX,dockerproxy.cn,DIRECT'
+    - 'DOMAIN-SUFFIX,mirrors.ustc.edu.cn,DIRECT'
+    - 'DOMAIN-SUFFIX,c.163.com,DIRECT'
+    - 'DOMAIN-SUFFIX,nju.edu.cn,DIRECT'
