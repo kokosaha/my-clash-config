@@ -181,6 +181,8 @@ rules:
     - 'DOMAIN-SUFFIX,taobao.com,DIRECT'
     - 'DOMAIN-SUFFIX,tencent.com,DIRECT'
     - 'DOMAIN-SUFFIX,tenpay.com,DIRECT'
+    - 'DOMAIN-SUFFIX,minimax.chat,DIRECT'
+    - 'DOMAIN-SUFFIX,minimaxi.com,DIRECT'
     - 'DOMAIN-SUFFIX,isolarcloud.com,DIRECT'
     - 'DOMAIN-SUFFIX,mirrors.ustc.edu.cn,DIRECT'
     - 'DOMAIN-SUFFIX,c.163.com,DIRECT'
