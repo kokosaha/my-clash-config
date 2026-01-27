@@ -28,3 +28,5 @@
     - 'DOMAIN-SUFFIX,c.163.com,DIRECT'
     - 'DOMAIN-SUFFIX,nju.edu.cn,DIRECT'
     - 'DOMAIN-SUFFIX,isolarcloud.com,DIRECT'
+    - 'DOMAIN-SUFFIX,minimaxi.com,DIRECT'
+    - 'DOMAIN-SUFFIX,minimax.chat,DIRECT'
