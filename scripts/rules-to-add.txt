@@ -30,3 +30,4 @@
     - 'DOMAIN-SUFFIX,isolarcloud.com,DIRECT'
     - 'DOMAIN-SUFFIX,minimaxi.com,DIRECT'
     - 'DOMAIN-SUFFIX,minimax.chat,DIRECT'
+    - 'DOMAIN-SUFFIX,npmmirror.com,DIRECT'

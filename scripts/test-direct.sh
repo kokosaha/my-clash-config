@@ -23,8 +23,9 @@ URLS=(
   "https://www.isolarcloud.com/"
   "https://www.minimaxi.com/"
   "https://filecdn.minimax.chat/"
+  "https://registry.npmmirror.com/"
 )
-DOMAINS=( "csrzic.com" "docs.qq.com" "meeting.tencent.com" "meeting.qq.com" "wemeet.qq.com" "wemeet.tencent.com" "shimo.im" "doubao.com" "wechat.com" "wechatpay.cn" "wechatpay.com" "wechatapp.com" "wechatos.net" "weixin.qq.com" "weixin.com" "servicewechat.com" "wx.qq.com" "wxs.qq.com" "weixinconf.qq.com" "qpic.cn" "qlogo.cn" "wx.gtimg.com" "scdsjzx.com" "xdow.net" "1ms.run" "dockerproxy.cn" "mirrors.ustc.edu.cn" "c.163.com" "nju.edu.cn" "isolarcloud.com" "minimaxi.com" "minimax.chat" )
+DOMAINS=( "csrzic.com" "docs.qq.com" "meeting.tencent.com" "meeting.qq.com" "wemeet.qq.com" "wemeet.tencent.com" "shimo.im" "doubao.com" "wechat.com" "wechatpay.cn" "wechatpay.com" "wechatapp.com" "wechatos.net" "weixin.qq.com" "weixin.com" "servicewechat.com" "wx.qq.com" "wxs.qq.com" "weixinconf.qq.com" "qpic.cn" "qlogo.cn" "wx.gtimg.com" "scdsjzx.com" "xdow.net" "1ms.run" "dockerproxy.cn" "mirrors.ustc.edu.cn" "c.163.com" "nju.edu.cn" "isolarcloud.com" "minimaxi.com" "minimax.chat" "npmmirror.com" )
 
 echo "==> 连通性测试（经代理 ${PROXY}）"
 for u in "${URLS[@]}"; do
