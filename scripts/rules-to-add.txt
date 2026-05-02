@@ -31,3 +31,16 @@
     - 'DOMAIN-SUFFIX,minimaxi.com,DIRECT'
     - 'DOMAIN-SUFFIX,minimax.chat,DIRECT'
     - 'DOMAIN-SUFFIX,npmmirror.com,DIRECT'
+    - 'DOMAIN-SUFFIX,coze.cn,DIRECT'
+    - 'DOMAIN-SUFFIX,volcengine.com,DIRECT'
+    - 'DOMAIN-SUFFIX,apple.com.cn,DIRECT'
+    - 'DOMAIN-SUFFIX,modelscope.cn,DIRECT'
+    - 'DOMAIN-SUFFIX,api.minimaxi.com,DIRECT'
+    - 'DOMAIN-SUFFIX,platform.minimaxi.com,DIRECT'
+    - 'DOMAIN-SUFFIX,foreseesolar.csrzic.com,DIRECT'
+    - 'DOMAIN-SUFFIX,cmail.csrzic.com,DIRECT'
+    - 'DOMAIN-SUFFIX,gitee.com,DIRECT'
+    - 'DOMAIN-SUFFIX,huaweicloud.com,DIRECT'
+    - 'DOMAIN-SUFFIX,xiaohongshu.com,DIRECT'
+
+
